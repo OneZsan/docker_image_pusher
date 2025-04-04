@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 
 #langgenius/dify-web
-nginx
+python
