@@ -6,4 +6,5 @@
 #--platform=linux/arm64 
 #langgenius/dify-web
 #postgres
-gitlab/gitlab-ce
+#gitlab/gitlab-ce
+ubuntu:22.04
